@@ -1,4 +1,4 @@
-// Roman A, CSC 222, Rock Paper Scissors Tournament
+// Roman A, CSC 222, Rock Paper Scissors Tournament - Testing Branch
 
 #include <iostream>
 #include <cstdlib>
